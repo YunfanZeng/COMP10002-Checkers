@@ -1,0 +1,2 @@
+# COMP10002-Checkers
+COMP10002 Project 2
